@@ -15,11 +15,6 @@ The industry average for the chosen role.
 The average salary at the chosen company across all roles.
 The industry average salary across all roles and all companies.
 
-pexels-thisisengineering-3861958
-
-### Launch
-
-View WorkAround Explorer here: https://devayodele.github.io/workAround/
 
 ### Class
 
