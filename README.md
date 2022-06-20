@@ -19,7 +19,7 @@ pexels-thisisengineering-3861958
 
 ### Launch
 
-View WorkAround Explorer here: https://devayodele.github.io/workaround-explorer/
+View WorkAround Explorer here: https://devayodele.github.io/workAround/
 
 ### Class
 
